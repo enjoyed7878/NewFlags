@@ -1,0 +1,6 @@
+<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg">
+  <title>Flag Svitoshyn (900x600)</title>
+  <path id="Background" d="M0 0H900V600H0Z0" style="fill:#010e73"></path>
+  <path id="Line1" d="M300 0H900V600H300Z0" style="fill:#d5ed46"></path>
+  <path id="Line2" d="M600 0H900V600H600Z0" style="fill:#1b93cf"></path>
+</svg>
