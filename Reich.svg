@@ -1,0 +1,5 @@
+<!-- sample rectangle -->
+<svg width="196" height="199" xmlns="http://www.w3.org/2000/svg">
+<title>Reich</title>
+<polygon points="0,97 19,78,59,118 79,98 40,59 99,0 118,19 78,59 97,78 136,39 195,98 176,117 137,78 117,98 158,139 99,198 80,179 120,139 98,117 59,156" style="fill:rgb(255,204,0)"></polygon>
+</svg>
