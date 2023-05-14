@@ -1,0 +1,22 @@
+<!-- Photopea, Text SVG -->
+<svg width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
+<title>Flag Fascism Moskovia</title>
+<rect width="1200" height="600" style="fill:#c00"></rect>
+<rect width="1200" height="140" y="460" style="fill:black"></rect>
+<g id="Line" style="fill:rgb(255,102,0)">
+<rect width="1200" height="10" y="590"></rect>
+<rect width="1200" height="24" y="542"></rect>
+<rect width="1200" height="24" y="494"></rect>
+<rect width="1200" height="10" y="460"></rect>
+</g>
+<circle style="fill:white" cx="180" cy="180" r="180" transform="translate(50, 30)"></circle>
+<g id="Reich" style="fill:black)" transform="rotate(45), translate(210, -110)">
+<rect width="40" height="120"></rect>
+<rect width="40" height="120" x="160" y="80"></rect>
+<rect width="120" height="40" x="80"></rect>
+<rect width="120" height="40" y="160"></rect>
+<rect width="40" height="200" x="80"></rect>
+<rect width="200" height="40" y="80"></rect>
+
+</g>
+</svg>
