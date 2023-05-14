@@ -1,0 +1,13 @@
+<!-- Photopea, Text SVG -->
+<svg width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
+<title>Flag Fascism Moskovia2</title>
+<rect width="1200" height="600" style="fill:#c00"></rect>
+<rect width="1200" height="140" y="460" style="fill:black"></rect>
+<g id="Line" style="fill:rgb(255,102,0)">
+<rect width="1200" height="10" y="590"></rect>
+<rect width="1200" height="24" y="542"></rect>
+<rect width="1200" height="24" y="494"></rect>
+<rect width="1200" height="10" y="460"></rect>
+</g>
+<polygon points="0,97 19,78,59,118 79,98 40,59 99,0 118,19 78,59 97,78 136,39 195,98 176,117 137,78 117,98 158,139 99,198 80,179 120,139 98,117 59,156" transform="translate(60, 40),scale(1.20,1.20)" style="fill:rgb(255,204,0)"></polygon>
+</svg>
